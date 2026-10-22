@@ -1,6 +1,7 @@
-   ---
-   title: Data Analyst Portfolio
-   ---
+---
+title: Data Analyst Portfolio
+---
+
 ## About
 I am an entry-level data analyst. I use SQL Server, Power BI and Excel to turn raw data into clear findings. I work as a Data & Operations Intern at a nonprofit alumni organization, where I build enrollment leaderboards, performance trackers and quarterly trend analyses. I completed the Data Analytics training at ALIWA (Africa Leadership Initiative West Africa) and I am building a public portfolio of real projects. I am open to remote opportunities.
 
